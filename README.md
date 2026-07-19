@@ -1,5 +1,9 @@
 # CodeAlpha IoT Task 2
 
+## Tinkercad Simulation
+
+[Open Tinkercad Project]((https://www.tinkercad.com/things/gIwlmj0Bpox-smashing-habbi/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=LNpjfEcLpsbej-NwoxFxr7LZMFes2QHOWfDC9n3sklY))
+
 ## Project Title
 Motion Detection using PIR Sensor and Arduino
 
