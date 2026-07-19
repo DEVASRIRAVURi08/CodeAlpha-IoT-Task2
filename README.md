@@ -2,7 +2,7 @@
 
 ## Tinkercad Simulation
 
-[Open Tinkercad Project](https://www.tinkercad.com/things/gIwlmj0Bpox-smashing-habbi/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=LNpjfEcLpsbej-NwoxFxr7LZMFes2QHOWfDC9n3sklY)
+[Open Tinkercad Project](https://www.tinkercad.com/things/gIwlmj0Bpox-smashing-habbi?sharecode=jq6IJQS5utlhZQncQks0te2BkZqy2kCN07dR0RCmzNQ)
 
 ## Project Title
 Motion Detection using PIR Sensor and Arduino
